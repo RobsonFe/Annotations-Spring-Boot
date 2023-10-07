@@ -283,3 +283,6 @@ public class MyRestController {
 ```
 
 Esses exemplos de código devem ajudar a ilustrar o uso de cada annotation do Spring Boot em situações práticas.
+
+# Video
+Os exemplos usados aqui foram baseados no video da Michelli Brito. [Clique aqui](https://www.youtube.com/watch?v=seu-codigo-de-video) para ser redirecionado para o video. 
